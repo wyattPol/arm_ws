@@ -1,0 +1,6 @@
+{
+  "package_name": "my_robot_action",
+  "non_idl_tuples": [
+    "/arm_ws/src/my_robot_action:action/MyRobot.action"
+  ]
+}

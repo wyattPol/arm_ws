@@ -1,0 +1,1 @@
+/arm_ws/build/my_robot_action/ament_cmake_python/my_robot_action/my_robot_action.egg-info/top_level.txt

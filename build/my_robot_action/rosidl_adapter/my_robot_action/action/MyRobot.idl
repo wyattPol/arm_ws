@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from my_robot_action/action/MyRobot.action
+// generated code does not contain a copyright notice
+
+
+module my_robot_action {
+  module action {
+    struct MyRobot_Goal {
+      float goal_distance;
+
+      float timeout;
+
+      float precision;
+    };
+    struct MyRobot_Result {
+      boolean succeeded;
+
+      float final_precision;
+
+      float total_time;
+    };
+    struct MyRobot_Feedback {
+      float current_distance;
+
+      float estimated_time;
+    };
+  };
+};

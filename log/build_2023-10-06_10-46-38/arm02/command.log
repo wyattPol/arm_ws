@@ -1,0 +1,4 @@
+Invoking command in '/arm_ws/build/arm02': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /arm_ws/build/arm02 -- -j24 -l24
+Invoked command in '/arm_ws/build/arm02' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /arm_ws/build/arm02 -- -j24 -l24
+Invoking command in '/arm_ws/build/arm02': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /arm_ws/build/arm02
+Invoked command in '/arm_ws/build/arm02' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /arm_ws/build/arm02

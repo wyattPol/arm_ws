@@ -1,0 +1,1 @@
+/arm_ws/build/my_robot_action/rosidl_generator_py/my_robot_action/_my_robot_action_s.ep.rosidl_typesupport_c.c

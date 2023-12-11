@@ -1,0 +1,2 @@
+Invoking command in '/arm_ws/build/my_robot_action': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /arm_ws/src/my_robot_action -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/arm_ws/install/my_robot_action
+Invoked command in '/arm_ws/build/my_robot_action' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /arm_ws/src/my_robot_action -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/arm_ws/install/my_robot_action
